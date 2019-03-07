@@ -39,24 +39,7 @@ Bu sorunun cevabında her zaman toplamı 10 olan en az bir ikili alınması gere
 
 ### Kod Açıklaması
 
-    ```python
-    def guvercinYuvasiSayisiniBul(dizi): 
-    yuvaSayisi=0;
-    index=0;
-    i=1;
-
-    while i < len(dizi):
-        if (dizi[index]+dizi[i])==10 :
-            yuvaSayisi+=1;
-            dizi.remove(dizi[i]);
-            dizi.remove(dizi[index]);
-            i=1;
-        else:
-          i+=1;
-
-    if len(dizi)>0:
-        yuvaSayisi+=1;
-
-    return yuvaSayisi;
-
+    ```javascript
+    var num = 0;
+    var num2 = 0;
     ``` 
