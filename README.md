@@ -17,9 +17,9 @@ En az bir yuva **[g/y]** güvercin içerir.
 
 Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerektiğini göstermemiz gerekmektedir. Öncelikle S kümesinde toplamları 10 olan ikili grupları sıralayalım.
 
-- 1+9=10
-- 2+8=10
-- 3+7=10 
-- 4+6=10 
-- ve geriye yalnızca “5” sayısı kalmaktadır. 
+1. 1+9=10
+2. 2+8=10
+3. 3+7=10 
+4. 4+6=10 
+5. ve geriye yalnızca “5” sayısı kalmaktadır. 
 - Sonuç olarak 10 toplamasını sağlayan 4 ikili ve ayrı kalan “5” ile 5 grup oluşur.
