@@ -9,9 +9,3 @@ En az bir yuva **[g/y]** güvercin içerir.
 
 >**NOT:** g ≤ y olması durumunda dahi **[g/y]=1** olacaktır.
 
-[rST]: http://docutils.sourceforge.net/docs/ref/rst/directives.html#specific-admonitions
-
-!!! note
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
