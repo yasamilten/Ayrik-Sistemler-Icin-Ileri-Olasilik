@@ -39,9 +39,8 @@ Bu sorunun cevabında her zaman toplamı 10 olan en az bir ikili alınması gere
 
 ### Kod Açıklaması
 
-[source,py]
-
-def guvercinYuvasiSayisiniBul(dizi): 
+    ```python
+    def guvercinYuvasiSayisiniBul(dizi): 
     yuvaSayisi=0;
     index=0;
     i=1;
@@ -59,3 +58,5 @@ def guvercinYuvasiSayisiniBul(dizi):
         yuvaSayisi+=1;
 
     return yuvaSayisi;
+
+    ``` 
