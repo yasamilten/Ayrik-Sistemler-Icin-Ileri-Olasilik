@@ -24,3 +24,8 @@ Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerek
 * ve geriye yalnızca “5” sayısı kalmaktadır. 
 
 >Sonuç olarak 10 toplamasını sağlayan 4 ikili ve ayrı kalan “5” ile 5 grup oluşur.
+
+
+**g(güvercin yuvası):** Sayıların seçilebileceği grup sayısı burada 5’tir.
+
+**y(güvercin):** Seçilecek elaman sayısı burada 6’dır.
