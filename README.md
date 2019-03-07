@@ -29,3 +29,5 @@ Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerek
 **g(güvercin yuvası):** Sayıların seçilebileceği grup sayısı burada 5’tir.
 
 **y(güvercin):** Seçilecek elaman sayısı burada 6’dır.
+
+* Bu durumda 5 gruptan 6 sayı almamız gerekmektedir. Güvercin Deliği ilkesine göre en az bir gruptan iki elaman almamız gerekir. Bu da, her zaman toplamı 10 olan en az bir ikili seçilecek demektir.
