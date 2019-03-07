@@ -9,4 +9,4 @@ En az bir yuva **[g/y]** güvercin içerir.
 
 >**NOT:** g ≤ y olması durumunda dahi **[g/y]=1** olacaktır.
 
-## SORU: S={1,2,3,4,5,6,7,8,9} kümesinin 6 elamanlı her hangi bir altkümesinde toplamı 10 olan iki sayı vardır” ifadesini gösteriniz.
+#### SORU: “S={1,2,3,4,5,6,7,8,9} kümesinin 6 elamanlı her hangi bir altkümesinde toplamı 10 olan iki sayı vardır” ifadesini gösteriniz.
