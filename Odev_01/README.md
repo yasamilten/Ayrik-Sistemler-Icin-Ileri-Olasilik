@@ -38,7 +38,9 @@ Bu sorunun cevabında her zaman toplamı 10 olan en az bir ikili alınması gere
 
 
 ### Kod Açıklaması
+
 [source,py]
+
 def guvercinYuvasiSayisiniBul(dizi): 
     yuvaSayisi=0;
     index=0;
