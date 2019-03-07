@@ -21,3 +21,5 @@ Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerek
 - 2+8=10
 - 3+7=10 
 - 4+6=10 
+- ve geriye yalnızca “5” sayısı kalmaktadır. 
+- Sonuç olarak 10 toplamasını sağlayan 4 ikili ve ayrı kalan “5” ile 5 grup oluşur.
