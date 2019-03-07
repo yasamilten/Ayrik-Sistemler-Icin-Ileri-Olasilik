@@ -35,3 +35,6 @@ Bu sorunun cevabında her zaman toplamı 10 olan en az bir ikili alınması gere
 * 5<=6
 
 *  Bu durumda 5 gruptan 6 sayı almamız gerekmektedir. Güvercin yuvası ilkesine göre en az bir gruptan iki elaman almamız gerekir. Bu da, her zaman toplamı 10 olan en az bir ikili seçilecek demektir.
+
+
+### Kod Açıklaması
