@@ -30,4 +30,4 @@ Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerek
 
 **y(güvercin):** Seçilecek elaman sayısı burada 6’dır.
 
-* Bu durumda 5 gruptan 6 sayı almamız gerekmektedir. Güvercin Deliği ilkesine göre en az bir gruptan iki elaman almamız gerekir. Bu da, her zaman toplamı 10 olan en az bir ikili seçilecek demektir.
+* Bu durumda 5 gruptan 6 sayı almamız gerekmektedir. Güvercin yuvası ilkesine göre en az bir gruptan iki elaman almamız gerekir. Bu da, her zaman toplamı 10 olan en az bir ikili seçilecek demektir.
