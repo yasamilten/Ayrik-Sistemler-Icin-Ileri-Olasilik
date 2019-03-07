@@ -7,4 +7,4 @@
 
 En az bir yuva **[g/y]** güvercin içerir.
 
->**TODO** g ≤ y olması durumunda dahi **[g/y]=1** olacaktır.
+>**NOT** g ≤ y olması durumunda dahi **[g/y]=1** olacaktır.
