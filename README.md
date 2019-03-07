@@ -14,3 +14,10 @@ En az bir yuva **[g/y]** güvercin içerir.
 “S={1,2,3,4,5,6,7,8,9} kümesinin 6 elamanlı her hangi bir altkümesinde toplamı 10 olan iki sayı vardır” ifadesini gösteriniz.
 
 ### ÇÖZÜM
+
+Bu sorunun cevabında he zaman toplamı 10 olan en az bir ikili alınması gerektiğini göstermemiz gerekmektedir. Öncelikle S kümesinde toplamları 10 olan ikili grupları sıralayalım.
+
+- 1+9=10
+- 2+8=10
+- 3+7=10 
+- 4+6=10 
